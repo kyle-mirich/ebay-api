@@ -1,6 +1,3 @@
 ebaysdk
-openai
-requests
-pandas
 streamlit
-colorama
+
